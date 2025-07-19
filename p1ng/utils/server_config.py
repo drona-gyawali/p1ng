@@ -11,7 +11,7 @@ test_servers = [
     {
         "id": "nep-lumbini-001",
         "name": "p1ng - Lumbini",
-        "hostname": "127.0.0.1:8000 ",
+        "hostname": "p1ng-lbgf.onrender.com",
         "ip": "103.152.144.29",
         "port": 443,
         "protocols_supported": ["https", "http", "ws"],

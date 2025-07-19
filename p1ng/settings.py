@@ -16,5 +16,6 @@ origins = [
     "http://localhost:5500",
     "http://localhost",
     "https://drona-gyawali.github.io/",
+    "https://p1ng-lbgf.onrender.com", 
     "*",
 ]
