@@ -1,0 +1,25 @@
+[project]
+name = "p1ng"
+version = "0.1.0"
+description = "Your Lightweight, Database-less Internet Speed Tester."
+readme = "README.md"
+author = [
+  { name="Dorna Raj Gyawali", email="dronarajgyawali@gmail.com" }
+]
+
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.1.0",
+    "dotenv>=0.9.9",
+    "fastapi>=0.116.1",
+    "httpx>=0.28.1",
+    "isort>=6.0.1",
+    "itsdangerous>=2.2.0",
+    "pydantic[email]>=2.11.7",
+    "pydotenv>=0.0.7",
+    "uvicorn>=0.35.0",
+]
+
+
+[tool.isort]
+profile = "black"

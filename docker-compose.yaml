@@ -1,0 +1,11 @@
+services:
+  p1ng:
+    build: .
+    container_name: p1ng
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+    volumes:
+      - .:/app
+    restart: unless-stopped
