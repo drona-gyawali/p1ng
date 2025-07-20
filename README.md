@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="543" height="344" alt="Image" src="https://github.com/user-attachments/assets/ef95ca6e-7944-4e7f-827c-230a4316e907" />
+  <img width="345" height="345" alt="image" src="https://github.com/user-attachments/assets/83cd419e-e503-49eb-b97a-1e92fd49e388" />
 </p>
 
 
@@ -36,13 +36,15 @@
 > 💡 *We do not store or log your activity. All tests are conducted in real time and forgotten instantly.*
 
 ---
-
+### Frontend
 > **Note:**
 > The backend is production-ready and fully functional. However, the frontend is currently in a prototype phase, primarily showcasing the integration between UI and core services.
 
 > Since we haven't yet deployed global server infrastructure or partnered with server providers, you may not receive the most precise results—especially if you're far from the default server location.
 
 > <img width="1363" height="762" alt="Image" src="https://github.com/user-attachments/assets/2cd20684-91ac-48c9-9e24-e045c8f0b771" />
+
+frontend: [weblink](https://drona-gyawali.github.io/p1ng-ui/)
 
 ---
 
